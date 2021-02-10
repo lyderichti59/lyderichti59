@@ -5,7 +5,9 @@
   <a href="https://stackoverflow.com/users/13410144/">
     <img src="https://img.shields.io/badge/-StackOverflow-F48023?logo=stackoverflow&logoColor=white" alt="StackOverflow">
   </a>
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lyderichti59">
+  <a href="https://twitter.com/lyderichti59">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lyderichti59">
+  </a>
 </p>
   
 ### Hi there 👋
