@@ -14,7 +14,7 @@
 
 I'm a French Software Engineer, very enthusiastic about technology. I love programming in [Clojure](https://clojure.org) but I like playing with other languages too. I hold a [technical blog](https://lyderic.origenial.fr) hosted on [Origénial](https://www.origenial.fr), the structure through which *I am practicing engineering as a Freelance.* If you are interested in *working together*, I am open to *part-time missions* (1 to 2 days per week).   
 
-Currently, I am investing most of my time in developping a platform, called [Ponceleo](https://www.ponceleo.com), that aims at *expanding the lifespan of people's goods* and *fighting against planned obsolescence*. 
+Currently, I am investing most of my time in developping a platform (fullstack Clojure(Script)), called [Ponceleo](https://www.ponceleo.com), that aims at *expanding the lifespan of people's goods* and *fighting against planned obsolescence*. 
 
 
 - 💬 Ask me about anything !
