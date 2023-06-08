@@ -12,10 +12,8 @@
   
 ### Hi there 👋
 
-I'm a French Software Engineer, very enthusiastic about technology. I love programming in [Clojure](https://clojure.org) but I like playing with other languages too. I hold a [technical blog](https://lyderic.origenial.fr) hosted on [Origénial](https://www.origenial.fr), the structure through which *I am practicing engineering as a Freelance.*    
+💻 I'm a French IT Engineer, skilled and available for Software Engineering audits, recommendations and developments. Check my Linkedin too for more details. 
 
-- 💬 Ask me about anything !
-- 📫 Reach me on twitter, linkedin or per email.
+📖 I also hold a (admettedly inactive) [technical blog](https://lyderic.origenial.fr) hosted on [Origénial](https://www.origenial.fr) and like to contribute to Open Source projects.
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyderichti59&layout=compact)
+🚀 If you're a ScaleUp tech company looking to 10x the outcome of your Tech Team and optimise your stack, reach out !
