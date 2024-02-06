@@ -12,8 +12,7 @@
   
 ### Hi there 👋
 
-💻 I'm a French IT Engineer, skilled and available for Software Engineering audits, recommendations and developments. Check my Linkedin too for more details. 
+💻 I'm a French IT Consultant, CEO [Origénial](https://www.origenial.fr), and I'm skilled and available to help you out with your IT strategy. Check my Linkedin too for more details.
 
-📖 I also hold a (admittedly inactive) [technical blog](https://lyderic.origenial.fr) hosted on [Origénial](https://www.origenial.fr) and like to contribute to Open Source projects.
+📖 I also hold a (admittedly inactive) [technical blog](https://lyderic.origenial.fr) and I like to contribute to Open Source projects.
 
-🚀 If you're a ScaleUp tech company looking to 10x the outcome of your Tech Team and optimise your stack, reach out !
